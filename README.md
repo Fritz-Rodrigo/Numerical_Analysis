@@ -1,3 +1,3 @@
 # Numerical Analysis
 
-Exercises
+These are some exercises of numerical analysis
